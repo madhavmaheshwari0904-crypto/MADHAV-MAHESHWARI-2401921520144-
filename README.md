@@ -1,4 +1,3 @@
-# week1
-DAY 1
-<br>
-code 2
+# Madhav Maheshwari
+#2401921520144
+WEEK 1
